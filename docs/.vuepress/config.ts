@@ -36,7 +36,10 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
                         text: '前端 Basic',
                         link: '/pages/28ee46/'
                     },
-
+                    {
+                        text: 'React Native',
+                        link: '/pages/28ee46/'
+                    },
                 ]
             },
             {

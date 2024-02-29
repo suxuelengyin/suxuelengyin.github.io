@@ -38,7 +38,7 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
                     },
                     {
                         text: 'React Native',
-                        link: '/pages/28ee46/'
+                        link: '/pages/d361ed/'
                     },
                 ]
             },

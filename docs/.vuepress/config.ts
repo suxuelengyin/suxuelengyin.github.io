@@ -71,6 +71,10 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
                         text: 'Copilot',
                         link: '/pages/e0e977/'
                     },
+                    {
+                        text: 'AI 应用',
+                        link: '/pages/7e1a1c/'
+                    },
                 ]
             }
         ],

@@ -47,7 +47,7 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
                 items: [
                     {
                         text: 'JavaScript',
-                        link: '/pages/9d4585/'
+                        link: '/pages/26533a/'
                     },
                     {
                         text: 'TypeScript',

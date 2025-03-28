@@ -15,6 +15,9 @@ npm run build
 # 进入生成的文件夹
 cd $dist_path
 
+# 将public文件夹内容复制到$dist_path
+cp -r public/* .
+
 git init
 git add -A
 git commit -m "deploy, $commit_info"
